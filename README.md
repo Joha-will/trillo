@@ -11,11 +11,11 @@
 
     What is FlexBox?
 
-    - Flexbox is a new module in CSS3 that makes it easy to align the elements to one another in different directions and orders;
-    - The main idea behind FlexBox is to give the container the ability to expand and shrink elements to best use the available space;
-    - Flexbox replaces float layout, using less with more readable and logical code;
-    - Flexbox completely changes the way that we build one-dimensional layouts;
-    - It is a true revolution in CSS;
+    1. Flexbox is a new module in CSS3 that makes it easy to align the elements to one another in different directions and orders;
+    2. The main idea behind FlexBox is to give the container the ability to expand and shrink elements to best use the available space;
+    3. Flexbox replaces float layout, using less with more readable and logical code;
+    4. Flexbox completely changes the way that we build one-dimensional layouts;
+    5. It is a true revolution in CSS;
   
 </td></tr></table>
 
@@ -42,6 +42,17 @@
     6. short-hand [flex: 0 1 auto] <int> <int> <len>
 
 </td></tr></table>
+
+
+### **Defining project settings and custom properties**
+
+<table><tr><td>
+
+    1. How and why to use CSS custom properties.
+
+</td></tr></table>
+
+
 
 
 
