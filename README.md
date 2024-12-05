@@ -57,6 +57,8 @@
 
 <table><tr><td>
 
+    1. How to think about the overall layout of an application.
+    2. How to use Flexbox in a real world application.
 
 </td></tr></table>
 
