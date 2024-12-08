@@ -65,6 +65,76 @@
 
 
 
+----------------------------------------------------------------
+## **Technologies Used 📦**
+ - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    - This was used for the structure of the web page and it's content.
+
+- [CSS](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+    - This was used to style the HTML document.
+
+- [SASS](https://sass-lang.com/)
+    - This was used to style the HTML document. Sass is the most mature, stable, and powerful professional grade CSS extension language in the world. 
+
+- [Git](https://git-scm.com/)
+    - This is a version control system which I used to handle my project throughout the development stages, to save and push my work from gitpod to github.
+
+- [Github](http://github.com/)
+    - This was used to store my project after it was saved and pushed from gitpod.
+
+- [jQuery](https://jquery.com/)
+    - This was used for the interactivity, behaviors of the web.
+
+- [JavaScript](https://www.javascript.com/)
+    - This was used for the interactivity, behaviors of the web.
+- [Ajax](https://developer.mozilla.org/en-US/docs/Glossary/AJAX)
+    - Ajax can be used to create single-page apps, in which the entire web app consists of a single document, which uses Ajax to update its content as needed.
+
+- [Heroku](https://heroku.com/)
+    - This was used to deploy this application.
+
+- [Heroku Postgres](https://www.heroku.com/postgres)
+    - Heroku Postgres is a managed SQL database service provided directly by Heroku.
+
+
+- [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+    - This was one of the most used tool throughout the development of this project, as it can be used for tasks like testing, debugging and showing where elements are positioned on the web page.
+
+
+----------------------------------------------------------------
+
+
+## **Deployment 🚀**
+
+
+
+
+
+## **Credits**
+
+**Code**
+
+These online resources were incredibly helpful for refreshing my knowledge of specific topics or syntax, and they were also very informative.
+
+- [Stack Overflow](https://stackoverflow.com/)
+- [Freecodecamp](https://www.freecodecamp.org/)
+- [Geeksforgeeks](https://www.geeksforgeeks.org/)
+- 
+
+**Content**
+
+
+
+### Acknowledgments 
+
+
+
+---
+
+
+
+
+
 
 
 
