@@ -63,6 +63,17 @@
 </td></tr></table>
 
 
+### **Building the Header(Part 1)**
+
+<table><tr><td>
+
+    1. Why to use SVG Icons vs font icons.
+    2. How to find, generate and use SVG sprites in HTML.
+    3. How to change the color of a SVG icon in CSS.
+    4. How to use more advanced flexbox alignment and techniques, including justify-center, align-items, align-self and flex.
+
+</td></tr></table>
+
 
 
 ----------------------------------------------------------------
