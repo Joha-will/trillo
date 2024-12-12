@@ -11,6 +11,10 @@
     height:  7rem;
     background-color: #ffff;
     background-color: var(--color-grey-dark-1);
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 .content {
