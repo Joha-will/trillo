@@ -3,7 +3,7 @@
 
 .logo {
     height: 3.25rem;
-    margin-left: 3rem;
+    margin-left: 2rem;
 }
 
 
@@ -78,14 +78,18 @@
 
 .user-nav {
 
-    background-color: olive;
+    align-self: stretch;
     display: flex;
     align-items: center;
 
 
     & > * {
+        display: flex;
+        align-items: center;
         padding: 0 2rem;
         cursor: pointer;
+        height: 100%;
+
     }
 
     & > *:hover {
@@ -95,6 +99,7 @@
 
     &__icon-box {
 
+        position: relative;
     }
 
     &__icon {
@@ -109,21 +114,18 @@
         height: 1.75rem;
         border-radius: 50%;
         fill: var(--color-primary);
-
-
-
-    }
-
-    &__user {
-
+        color: #fff;
+        position: absolute;
+        top: 1.5rem;
+        right: 1.1rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 
     &__user-photo {
         height: 3.75rem;
         border-radius: 50%;
-    }
-
-    &__user-name {
-
+        margin-right: 1rem;
     }
 }
