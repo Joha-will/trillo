@@ -75,6 +75,17 @@
 </td></tr></table>
 
 
+### **Building the Navigation(Part 1)**
+
+<table><tr><td>
+
+    1. How to use scaleY and multiple transition properties with different settings, to create a creative hover effect.
+    2. How and why to use the currentColor CSS variable.
+    3. How to use more advance Flexbox alignment techniques, including flex-direction, justify-content and align-items.                                                                                                                    
+
+</td></tr></table>
+
+
 
 ----------------------------------------------------------------
 ## **Technologies Used 📦**
