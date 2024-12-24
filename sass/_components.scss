@@ -132,7 +132,7 @@
 
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\
-/// Side Navigation
+/// Side Navigation0,0,0es
 
 .side-nav {
 
@@ -158,6 +158,8 @@
         width: 3px;
         background-color: var(--color-primary);
         transform: scaleY(0);
+        transition: transform .3s,
+            width .4s cubic-bezier(1,) .2s;
 
     }
 
