@@ -85,6 +85,16 @@
 
 </td></tr></table>
 
+### **Building the Hotel Overview(Part 1)**
+
+<table><tr><td>
+
+    1. How to use an infinite animation.
+    2. How to use margin: auto with flexbox, and why it's so powerful.
+    3. Continue to use flexbox properties for easy positioning and alignment.
+
+</td></tr></table>
+
 
 
 ----------------------------------------------------------------
