@@ -96,6 +96,13 @@
 </td></tr></table>
 
 
+### **Building the Hotel Overview(Part 2)**
+
+<table><tr><td>
+
+
+</td></tr></table>
+
 
 ----------------------------------------------------------------
 ## **Technologies Used 📦**
