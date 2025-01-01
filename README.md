@@ -96,9 +96,12 @@
 </td></tr></table>
 
 
-### **Building the Hotel Overview(Part 2)**
+### **Building the Description section(Part 2)**
 
 <table><tr><td>
+
+    1. Continue using flexbox, including flex-wrap to build a multi-column list.
+    2. How and why to use CSS Masks with mask-image and mask-size.
 
 
 </td></tr></table>
